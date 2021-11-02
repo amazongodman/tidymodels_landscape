@@ -1,4 +1,4 @@
-# tidymodels_function_landscape
+# tidymodels_core_function_landscape
 
 Call for revision ideas.
 
