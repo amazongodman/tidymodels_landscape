@@ -4,7 +4,7 @@ Call for revision ideas.
 
 ## ver 0.13
 
-<img src="aa" alt="tidymodels_core_func" title="tidymodels_core_func">
+<img src="https://user-images.githubusercontent.com/52575713/141294875-e07b9095-e2cb-482e-8feb-a1861196e438.jpg" alt="tidymodels_core_func" title="tidymodels_core_func">
 
 ## ver 0.12
 
